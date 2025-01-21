@@ -1,0 +1,317 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sp_q[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_q[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_q[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_q[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_q[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_q[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_q[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_q[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_a[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_a[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_a[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_a[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_a[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_a[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_a[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_a[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_b[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_b[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_b[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_b[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_b[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_b[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_b[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_q_b[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rom_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rom_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rom_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_addr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "sp_we",
+					"strict" : false
+				},
+				{
+					"name" : "sp_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_addr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_addr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_addr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_addr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_addr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sp_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_we_a",
+					"strict" : false
+				},
+				{
+					"name" : "dp_we_b",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_a[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_a[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_a[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_a[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_a[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_a[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_a[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_b[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_b[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_b[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_b[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_b[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_b[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_addr_b[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_a[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_b[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_a[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_b[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_a[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_b[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_a[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_b[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_a[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_b[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_a[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_b[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_a[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dp_data_b[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rom_addr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rom_addr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rom_addr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rom_addr[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

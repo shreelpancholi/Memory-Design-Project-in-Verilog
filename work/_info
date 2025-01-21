@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/INTEL
+vdual_port_ram
+Z0 !s110 1736356157
+!i10b 1
+!s100 nclh3[PmPo9ldG5U3Mdn80
+IiB4g^1^oaIiAcn:ok@aDB3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/INTEL/savedfiles/RAMROM
+w1734518089
+8E:/INTEL/savedfiles/RAMROM/dual_port_ram.v
+FE:/INTEL/savedfiles/RAMROM/dual_port_ram.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1736356157.000000
+!s107 E:/INTEL/savedfiles/RAMROM/dual_port_ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/INTEL/savedfiles/RAMROM/dual_port_ram.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmemory_project
+R0
+!i10b 1
+!s100 B9>OZ5?fR<7i79nch0nSX2
+IJjVLg`^cHN9AoEDVjEfla3
+R1
+R2
+w1734517985
+8E:/INTEL/savedfiles/RAMROM/memory_project.v
+FE:/INTEL/savedfiles/RAMROM/memory_project.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/INTEL/savedfiles/RAMROM/memory_project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/INTEL/savedfiles/RAMROM/memory_project.v|
+!i113 1
+R5
+R6
+vmemory_project_tb
+R0
+!i10b 1
+!s100 NO:Q_^zXGIGF<:kd5U]XK3
+IZV<zW@L8M[FFGNKDUd>Si3
+R1
+R2
+w1734546830
+8E:/INTEL/savedfiles/RAMROM/memory_project_tb.v
+FE:/INTEL/savedfiles/RAMROM/memory_project_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1736356156.000000
+!s107 E:/INTEL/savedfiles/RAMROM/memory_project_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/INTEL/savedfiles/RAMROM/memory_project_tb.v|
+!i113 1
+R5
+R6
+vrom
+R0
+!i10b 1
+!s100 Hl5db]?GN<M5W?mcAOSY`3
+IG8?HK?E?l12fON?I[N4nf3
+R1
+R2
+w1734518258
+8E:/INTEL/savedfiles/RAMROM/rom.v
+FE:/INTEL/savedfiles/RAMROM/rom.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/INTEL/savedfiles/RAMROM/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/INTEL/savedfiles/RAMROM/rom.v|
+!i113 1
+R5
+R6
+vsingle_port_ram
+R0
+!i10b 1
+!s100 o=hB4<A5<[8<=KfeR_1z>0
+IWKFVlT[fBY1a5z5<Ooig50
+R1
+R2
+w1734517488
+8E:/INTEL/savedfiles/RAMROM/single_port_ram.v
+FE:/INTEL/savedfiles/RAMROM/single_port_ram.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/INTEL/savedfiles/RAMROM/single_port_ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/INTEL/savedfiles/RAMROM/single_port_ram.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,36 @@
+E:/INTEL/savedfiles/RAMROM/single_port_ram.v {1 {vlog -work work -stats=none E:/INTEL/savedfiles/RAMROM/single_port_ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module single_port_ram
+
+Top level modules:
+	single_port_ram
+
+} {} {}} E:/INTEL/savedfiles/RAMROM/dual_port_ram.v {1 {vlog -work work -stats=none E:/INTEL/savedfiles/RAMROM/dual_port_ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dual_port_ram
+
+Top level modules:
+	dual_port_ram
+
+} {} {}} E:/INTEL/savedfiles/RAMROM/rom.v {1 {vlog -work work -stats=none E:/INTEL/savedfiles/RAMROM/rom.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} E:/INTEL/savedfiles/RAMROM/memory_project.v {1 {vlog -work work -stats=none E:/INTEL/savedfiles/RAMROM/memory_project.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module memory_project
+
+Top level modules:
+	memory_project
+
+} {} {}} E:/INTEL/savedfiles/RAMROM/memory_project_tb.v {1 {vlog -work work -stats=none E:/INTEL/savedfiles/RAMROM/memory_project_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module memory_project_tb
+
+Top level modules:
+	memory_project_tb
+
+} {} {}}
