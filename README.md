@@ -110,9 +110,4 @@ The provided testbench (`memory_project_tb.v`) validates the functionality:
 
 
 
-## **License**
-This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Let me know if you need additional details or help with other parts of the project!
